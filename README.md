@@ -18,4 +18,3 @@ These are all the platform,languages or libraries used in the Project
 Overall, Investify employs a robust and versatile tech stack  ReactJS and NodeJS provide a powerful frontend and backend development environment, while Firebase and IPFS provide efficient data storage and retrieval capabilities. Ethereum and stateful transactions ensure the security, authenticity, and cost-effectiveness of transactions on the blockchain network.
 
 
-Project Synopsis :
