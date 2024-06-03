@@ -10,7 +10,7 @@ The app includes a dedicated chat tab where users can access their chat history 
 ### Built With
 
 These are all the platform,languages or libraries used in the Project
-* [Android Studio](https://reactnative.dev/)
+* [React Native](https://reactnative.dev/)
 * [Firebase](https://firebase.google.com/)
 * [Figma](https://angular.io/)
 * [Node.js](https://nodejs.org/en)
